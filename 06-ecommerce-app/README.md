@@ -29,8 +29,7 @@ With this project you learn:
 
 ## 📁 Project Structure
 
-06-ecommerce-app/
-
+    06-ecommerce-app/
     ├── src/
     │ ├── components/
     │ │ ├── Navbar.jsx
